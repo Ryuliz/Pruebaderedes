@@ -1,0 +1,9 @@
+
+---------------------------------
+Tipo de dispositivo: Router
+Nombre del dispositivo: ROUTER1
+Dirección IP: 192.168.10.1
+VLANs configuradas: vlanSUR
+Servicios de red comprometidos: DNS, VPN
+Jerarquía: Núcleo
+---------------------------------
